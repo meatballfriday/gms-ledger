@@ -1,0 +1,1650 @@
+{
+ "company": "Embla Medical hf.",
+ "report": "Q4 2024 interim report (full year)",
+ "unit": "USD thousands",
+ "periods": [
+  "2024",
+  "2023"
+ ],
+ "statements": [
+  {
+   "id": "is",
+   "title": "Consolidated Income Statement",
+   "rows": [
+    {
+     "label": "All amounts in USD '000",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Net sales",
+     "v": [
+      854889,
+      785683
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cost of goods sold",
+     "v": [
+      -320189,
+      -300110
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Gross profit",
+     "v": [
+      534700,
+      485573
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Other income / (expenses)",
+     "v": [
+      399,
+      1927
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Sales and marketing expenses",
+     "v": [
+      -311151,
+      -293080
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Research and development expenses",
+     "v": [
+      -40832,
+      -38142
+     ],
+     "s": "n"
+    },
+    {
+     "label": "General and administrative expenses",
+     "v": [
+      -69964,
+      -66891
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Earnings before interest and tax (EBIT)",
+     "v": [
+      113153,
+      89387
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Financial income",
+     "v": [
+      3251,
+      4608
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Financial expenses",
+     "v": [
+      -24746,
+      -20720
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Net exchange rate difference",
+     "v": [
+      -4435,
+      -666
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Net financial expenses",
+     "v": [
+      -25930,
+      -16778
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Share in net profit of associates",
+     "v": [
+      3340,
+      3398
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Earnings before tax (EBT)",
+     "v": [
+      90563,
+      76007
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Income tax",
+     "v": [
+      -21603,
+      -17206
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Net profit",
+     "v": [
+      68960,
+      58801
+     ],
+     "s": "tot"
+    },
+    {
+     "label": "Attributable to:",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Owners of the Company",
+     "v": [
+      68278,
+      58389
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Non-controlling interests",
+     "v": [
+      682,
+      412
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Net profit",
+     "v": [
+      68960,
+      58801
+     ],
+     "s": "tot"
+    },
+    {
+     "label": "Earnings per share",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Basic earnings per share (US cent)",
+     "v": [
+      16.2,
+      14.0
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Diluted earnings per share (US cent)",
+     "v": [
+      16.2,
+      14.0
+     ],
+     "s": "n"
+    }
+   ]
+  },
+  {
+   "id": "bs",
+   "title": "Consolidated Balance Sheet",
+   "rows": [
+    {
+     "label": "ASSETS",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Property, plant and equipment",
+     "v": [
+      71824,
+      64386
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Right of use assets",
+     "v": [
+      127802,
+      121673
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Goodwill",
+     "v": [
+      776306,
+      690855
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other intangible assets",
+     "v": [
+      96645,
+      65841
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Investment in associates",
+     "v": [
+      20364,
+      20532
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other financial assets",
+     "v": [
+      2704,
+      4530
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Deferred tax assets",
+     "v": [
+      46365,
+      41888
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Non-current assets",
+     "v": [
+      1142010,
+      1009706
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Inventories",
+     "v": [
+      143102,
+      136226
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Accounts receivable",
+     "v": [
+      121915,
+      127844
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other financial assets",
+     "v": [
+      1475,
+      0
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other assets",
+     "v": [
+      44300,
+      39253
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash and cash equivalents",
+     "v": [
+      86163,
+      72653
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Current assets",
+     "v": [
+      396955,
+      375976
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Total assets",
+     "v": [
+      1538965,
+      1385682
+     ],
+     "s": "tot"
+    },
+    {
+     "label": "EQUITY AND LIABILITIES",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Issued capital and share premium",
+     "v": [
+      93464,
+      66260
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Reserves",
+     "v": [
+      -75390,
+      -64045
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Retained earnings",
+     "v": [
+      759112,
+      699667
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Shareholders equity",
+     "v": [
+      777186,
+      701883
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Non-controlling interest",
+     "v": [
+      3513,
+      3123
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Total equity",
+     "v": [
+      780699,
+      705005
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Borrowings",
+     "v": [
+      328754,
+      311802
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Lease liabilities",
+     "v": [
+      118279,
+      112605
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Deferred tax liabilities",
+     "v": [
+      37478,
+      28777
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Provisions",
+     "v": [
+      7937,
+      6666
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Deferred income",
+     "v": [
+      8589,
+      7277
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other financial liabilities",
+     "v": [
+      47946,
+      17351
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Non-current liabilities",
+     "v": [
+      548982,
+      484478
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Borrowings",
+     "v": [
+      28620,
+      21533
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Lease liabilities",
+     "v": [
+      24136,
+      21793
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Accounts payable",
+     "v": [
+      27275,
+      30749
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Income tax payable",
+     "v": [
+      18305,
+      12138
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Provisions",
+     "v": [
+      12615,
+      11322
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Accrued salaries and related expenses",
+     "v": [
+      48715,
+      50068
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other financial liabilities",
+     "v": [
+      10258,
+      9583
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other liabilities",
+     "v": [
+      39361,
+      39012
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Current liabilities",
+     "v": [
+      209284,
+      196198
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Total liabilities",
+     "v": [
+      758266,
+      680676
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Total equity and liabilities",
+     "v": [
+      1538965,
+      1385682
+     ],
+     "s": "tot"
+    }
+   ]
+  },
+  {
+   "id": "cf",
+   "title": "Consolidated Statement of Cash Flows",
+   "rows": [
+    {
+     "label": "Earnings before interests and tax (EBIT)",
+     "v": [
+      113153,
+      89387
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Depreciation and amortization",
+     "v": [
+      55973,
+      49920
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Change in inventories",
+     "v": [
+      -5928,
+      -2268
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Change in receivables",
+     "v": [
+      -5524,
+      -16370
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Change in payables",
+     "v": [
+      -2279,
+      14896
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Change in provisions",
+     "v": [
+      3174,
+      -7365
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other operating activities",
+     "v": [
+      1828,
+      -2214
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash generated from operations",
+     "v": [
+      160397,
+      125986
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Interest received",
+     "v": [
+      3238,
+      4733
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Interest paid",
+     "v": [
+      -24082,
+      -16046
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Income tax paid",
+     "v": [
+      -23487,
+      -20349
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Net cash generated from operating activities",
+     "v": [
+      116066,
+      94324
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Purchase of fixed and intangible assets",
+     "v": [
+      -39227,
+      -42278
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Acquisition of subsidiaries, net of cash in acquired entities",
+     "v": [
+      -70072,
+      -11903
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other investing activities",
+     "v": [
+      4529,
+      -2966
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash flows used in investing activities",
+     "v": [
+      -104770,
+      -57147
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Repayments of long-term borrowings",
+     "v": [
+      0,
+      -13202
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Changes in revolving credit facility",
+     "v": [
+      39787,
+      -1575
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Payments of lease liabilities",
+     "v": [
+      -24379,
+      -25423
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Increase in subsidiaries that does not affect control",
+     "v": [
+      -9648,
+      0
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Dividends from subsidiaries paid to non-controlling interests",
+     "v": [
+      0,
+      -759
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash flows generated from financing activities",
+     "v": [
+      5761,
+      -40959
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Net change in cash",
+     "v": [
+      17056,
+      -3782
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Exchange rate effects on cash held in foreign currencies",
+     "v": [
+      -3545,
+      -196
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash and cash equivalents at beginning of period",
+     "v": [
+      72653,
+      76631
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash and cash equivalents at end of period",
+     "v": [
+      86163,
+      72653
+     ],
+     "s": "tot"
+    }
+   ]
+  },
+  {
+   "id": "ci",
+   "title": "Consolidated Statement of Comprehensive Income",
+   "rows": [
+    {
+     "label": "Net profit",
+     "v": [
+      68960,
+      58801
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Items that may be reclassified subsequently to profit or loss:",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Change in cash flow hedges",
+     "v": [
+      1832,
+      963
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Fair value changes of financial liabilities",
+     "v": [
+      88,
+      93
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Exchange difference on translating foreign operations",
+     "v": [
+      -11175,
+      4839
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Income tax",
+     "v": [
+      -2073,
+      811
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other comprehensive income, net of income tax",
+     "v": [
+      -11328,
+      6706
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Total comprehensive income",
+     "v": [
+      57632,
+      65507
+     ],
+     "s": "tot"
+    },
+    {
+     "label": "Attributable to:",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Owners of the Company",
+     "v": [
+      56950,
+      65095
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Non-controlling interests",
+     "v": [
+      682,
+      412
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Total comprehensive income",
+     "v": [
+      57632,
+      65507
+     ],
+     "s": "tot"
+    }
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "id": "fiveyear",
+   "title": "Five-year overview (annual report)",
+   "unit": "USD million unless stated",
+   "cols": [
+    "",
+    "2024",
+    "2023",
+    "2022",
+    "2021",
+    "2020"
+   ],
+   "rows": [
+    [
+     "USD MILLION",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Net sales",
+     855,
+     786,
+     719,
+     719,
+     630
+    ],
+    [
+     "Gross profit",
+     535,
+     486,
+     440,
+     455,
+     391
+    ],
+    [
+     "Operating expenses (excl. other income)",
+     422,
+     398,
+     373,
+     360,
+     338
+    ],
+    [
+     "EBITDA",
+     169,
+     139,
+     114,
+     149,
+     93
+    ],
+    [
+     "EBITDA before special items",
+     173,
+     139,
+     128,
+     149,
+     93
+    ],
+    [
+     "EBIT",
+     113,
+     89,
+     65,
+     97,
+     28
+    ],
+    [
+     "Net profit",
+     69,
+     59,
+     43,
+     66,
+     8
+    ],
+    [
+     "SALES GROWTH",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Sales growth USD %",
+     9,
+     9,
+     0,
+     14,
+     -8
+    ],
+    [
+     "- Organic growth %",
+     6,
+     9,
+     4,
+     10,
+     -10
+    ],
+    [
+     "- Currency effect %",
+     0,
+     -1,
+     -7,
+     3,
+     0
+    ],
+    [
+     "- Acquired business %",
+     3,
+     1,
+     3,
+     1,
+     2
+    ],
+    [
+     "BALANCE SHEET (USD MILLION)",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total assets",
+     1539,
+     1386,
+     1325,
+     1247,
+     1214
+    ],
+    [
+     "Equity",
+     781,
+     705,
+     636,
+     627,
+     577
+    ],
+    [
+     "Net interest-bearing debt (NIBD)",
+     414,
+     395,
+     404,
+     363,
+     381
+    ],
+    [
+     "CASH FLOW (USD MILLION)",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Cash generated by operations",
+     160,
+     126,
+     92,
+     128,
+     119
+    ],
+    [
+     "Free cash flow",
+     77,
+     52,
+     35,
+     74,
+     68
+    ],
+    [
+     "KEY RATIOS",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Gross profit margin %",
+     63,
+     62,
+     61,
+     63,
+     62
+    ],
+    [
+     "EBIT margin %",
+     13,
+     11,
+     9,
+     14,
+     4
+    ],
+    [
+     "EBITDA margin %",
+     20,
+     18,
+     16,
+     21,
+     15
+    ],
+    [
+     "EBITDA margin before special items %",
+     20,
+     18,
+     18,
+     21,
+     15
+    ],
+    [
+     "Equity ratio %",
+     51,
+     51,
+     48,
+     50,
+     48
+    ],
+    [
+     "NIBD to EBITDA",
+     2.4,
+     2.8,
+     3.2,
+     2.4,
+     4.1
+    ],
+    [
+     "Effective tax rate %",
+     24,
+     23,
+     23,
+     24,
+     38
+    ],
+    [
+     "Return on equity %",
+     9,
+     9,
+     7,
+     11,
+     1
+    ],
+    [
+     "CAPEX to net sales %",
+     4.6,
+     5.4,
+     3.6,
+     3.7,
+     3.8
+    ],
+    [
+     "EMPLOYEES",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Full time equivalent at period end",
+     4078,
+     3999,
+     3892,
+     3761,
+     3385
+    ],
+    [
+     "Full time equivalent on average",
+     4091,
+     3945,
+     3866,
+     3668,
+     3505
+    ],
+    [
+     "MARKET",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Market value of equity",
+     2125,
+     1713,
+     2035,
+     2724,
+     3380
+    ],
+    [
+     "Number of shares in millions",
+     428,
+     421,
+     423,
+     423,
+     423
+    ],
+    [
+     "EPS in US cents",
+     16.2,
+     14.0,
+     10.3,
+     15.6,
+     1.9
+    ],
+    [
+     "Diluted EPS in US cents",
+     16.2,
+     14.0,
+     10.3,
+     15.5,
+     1.9
+    ]
+   ]
+  },
+  {
+   "id": "segments",
+   "title": "Segment information",
+   "source": "Q4 report Note 3 Net sales (no segment profit measures disclosed)",
+   "cols": [
+    "",
+    "2024",
+    "2023",
+    "Q4 2024",
+    "Q4 2023"
+   ],
+   "rows": [
+    [
+     "Sales by geographical segment:",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "EMEA",
+     394869,
+     336278,
+     100750,
+     92774
+    ],
+    [
+     "Americas",
+     392898,
+     384057,
+     106768,
+     100571
+    ],
+    [
+     "APAC",
+     67122,
+     65348,
+     17263,
+     16853
+    ],
+    [
+     "Total",
+     854889,
+     785683,
+     224781,
+     210197
+    ],
+    [
+     "Sales by business segment:",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Prosthetics & Neuro Orthotics",
+     451306,
+     394837,
+     118834,
+     101619
+    ],
+    [
+     "Bracing & Supports",
+     148386,
+     146500,
+     36715,
+     36117
+    ],
+    [
+     "Internal product sales",
+     -38516,
+     -35748,
+     -10660,
+     -9228
+    ],
+    [
+     "External product sales",
+     561176,
+     505587,
+     144888,
+     128508
+    ],
+    [
+     "Patient Care",
+     293713,
+     280096,
+     79892,
+     81689
+    ],
+    [
+     "Total",
+     854889,
+     785683,
+     224781,
+     210197
+    ]
+   ]
+  },
+  {
+   "id": "growth",
+   "title": "Sales growth: organic, acquisitions, currency",
+   "source": "Q4 report / AR Performance section (AR shows same in USD million)",
+   "cols": [
+    "",
+    "FY 2024 (USD '000)",
+    "Organic growth",
+    "Δ Acq.",
+    "Δ Curr. effect",
+    "USD growth"
+   ],
+   "rows": [
+    [
+     "Sales by geographical segment",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Americas",
+     392898,
+     "3%",
+     "0%",
+     "0%",
+     "2%"
+    ],
+    [
+     "EMEA",
+     394869,
+     "10%",
+     "7%",
+     "0%",
+     "17%"
+    ],
+    [
+     "APAC",
+     67122,
+     "4%",
+     "0%",
+     "(2%)",
+     "3%"
+    ],
+    [
+     "Total",
+     854889,
+     "6%",
+     "3%",
+     "0%",
+     "9%"
+    ],
+    [
+     "Sales by business segment",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Prosthetics & Neuro Orthotics",
+     451306,
+     "9%",
+     "6%",
+     "(1%)",
+     "14%"
+    ],
+    [
+     "Bracing & Supports",
+     148386,
+     "1%",
+     "0%",
+     "0%",
+     "1%"
+    ],
+    [
+     "Internal product sales",
+     -38516,
+     "9%",
+     "0%",
+     "(1%)",
+     "8%"
+    ],
+    [
+     "External sales",
+     561176,
+     "7%",
+     "5%",
+     "0%",
+     "11%"
+    ],
+    [
+     "Patient Care",
+     293713,
+     "5%",
+     "0%",
+     "0%",
+     "5%"
+    ],
+    [
+     "Total",
+     854889,
+     "6%",
+     "3%",
+     "0%",
+     "9%"
+    ]
+   ]
+  },
+  {
+   "id": "special",
+   "title": "Special items / EBITDA reconciliation",
+   "source": "Q4 report Note 2 Quarterly statements (2024); D&A from cash flow",
+   "cols": [
+    "",
+    "FY 2024",
+    "Q4 2024",
+    "Q3 2024",
+    "Q2 2024",
+    "Q1 2024"
+   ],
+   "rows": [
+    [
+     "Net sales",
+     854889,
+     224781,
+     213528,
+     216727,
+     199852
+    ],
+    [
+     "EBIT",
+     113153,
+     31867,
+     32641,
+     33225,
+     15419
+    ],
+    [
+     "Depreciation and amortization (cash flow statement)",
+     55973,
+     14636,
+     null,
+     null,
+     null
+    ],
+    [
+     "EBITDA",
+     169126,
+     46502,
+     46568,
+     47040,
+     29016
+    ],
+    [
+     "EBITDA margin",
+     "20%",
+     "21%",
+     "22%",
+     "22%",
+     "15%"
+    ],
+    [
+     "EBITDA before special items",
+     173264,
+     46502,
+     46568,
+     47040,
+     33154
+    ],
+    [
+     "EBITDA margin before special items",
+     "20%",
+     "21%",
+     "22%",
+     "22%",
+     "17%"
+    ],
+    [
+     "Special items (DERIVED: EBITDA before special items minus EBITDA; not printed as a line)",
+     4138,
+     0,
+     0,
+     0,
+     4138
+    ],
+    [
+     "Memo FY 2023 (USD million, key figures): EBITDA 139; EBITDA before special items 139 -> no special items in 2023",
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ]
+  },
+  {
+   "id": "nibd",
+   "title": "Net interest-bearing debt",
+   "cols": [
+    "",
+    "31.12.2024",
+    "31.12.2023",
+    "Source"
+   ],
+   "rows": [
+    [
+     "Borrowings (non-current)",
+     328754,
+     311802,
+     "Balance sheet"
+    ],
+    [
+     "Borrowings (current)",
+     28620,
+     21533,
+     "Balance sheet"
+    ],
+    [
+     "Lease liabilities (non-current)",
+     118279,
+     112605,
+     "Balance sheet"
+    ],
+    [
+     "Lease liabilities (current)",
+     24136,
+     21793,
+     "Balance sheet"
+    ],
+    [
+     "Cash and cash equivalents",
+     -86163,
+     -72653,
+     "Balance sheet"
+    ],
+    [
+     "NIBD incl. lease liabilities (DERIVED sum of lines above)",
+     413626,
+     395080,
+     "Derived"
+    ],
+    [
+     "Net interest-bearing debt (NIBD), USD million (printed)",
+     414,
+     395,
+     "Q4 report text / AR five-year overview"
+    ],
+    [
+     "Net debt to EBITDA before special items (x)",
+     2.4,
+     2.8,
+     "Key ratios"
+    ]
+   ]
+  },
+  {
+   "id": "acq",
+   "title": "Acquisition of Fior & Gentz",
+   "source": "Q4 report Note 9 Business combinations; Note 7 Goodwill",
+   "cols": [
+    "",
+    "USD '000 (2024)",
+    "2023 (goodwill roll-forward only)"
+   ],
+   "rows": [
+    [
+     "Property, plant and equipment",
+     594
+    ],
+    [
+     "Other intangible assets",
+     31089
+    ],
+    [
+     "Inventories",
+     5375
+    ],
+    [
+     "Accounts and other receivables",
+     1128
+    ],
+    [
+     "Bank balances and cash equivalents",
+     2963
+    ],
+    [
+     "Deferred tax liabilities",
+     -9995
+    ],
+    [
+     "Other liabilities",
+     -2270
+    ],
+    [
+     "Net identifiable assets acquired",
+     28884
+    ],
+    [
+     "Goodwill",
+     104489
+    ],
+    [
+     "Net assets acquired",
+     133373
+    ],
+    [
+     "Consideration:",
+     null
+    ],
+    [
+     "Net assets acquired",
+     133373
+    ],
+    [
+     "Contingent consideration and deferred payments on current year´s acquisitions",
+     -38184
+    ],
+    [
+     "Issued new shares",
+     -27205
+    ],
+    [
+     "Cash paid",
+     67984
+    ],
+    [
+     "Payments on prior year´s acquisitions",
+     5052
+    ],
+    [
+     "Cash from acquired company",
+     -2963
+    ],
+    [
+     "Consideration shown in Cash Flow",
+     70072
+    ],
+    [
+     "Memo: acquisition date 1 January 2024; 6,636,122 new shares at DKK 28.10 (DKK 186m / USD 27m); USD 55m new credit facilities; acquisition costs USD 1m in G&A reported as special items; goodwill (allocated to EMEA CGU) not tax deductible",
+     null
+    ],
+    [
+     "Goodwill roll-forward (Note 7): At 1 January",
+     690855,
+     680400
+    ],
+    [
+     "Business combinations",
+     104489,
+     2241
+    ],
+    [
+     "Exchange rate differences",
+     -19038,
+     8214
+    ],
+    [
+     "At 31 December",
+     776306,
+     690855
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://mb.cision.com/Main/18404/4100604/3246107.pdf",
+  "https://media.ossur.com/image/upload/documents/corporate/Quarterly%20Reports/2024/2024%20Annual%20Report.pdf"
+ ],
+ "checks": "All statement subtotals/totals reconcile to printed figures within +/-1 rounding. Rounding differences of 1: IS EBIT col0: sum 113152 vs printed 113153; BS non-current assets col1: sum 1009705 vs printed 1009706; BS shareholders equity col1: sum 701882 vs printed 701883; BS total equity col1: sum 705006 vs printed 705005; BS NCL col0: sum 548983 vs printed 548982; BS CL col0: sum 209285 vs printed 209284; BS E+L col1: sum 1385681 vs printed 1385682; CF CFF col0: sum 5760 vs printed 5761; CF net change col0: sum 17057 vs printed 17056; CF end cash col0: sum 86164 vs printed 86163. Cross-checks OK: CF closing cash = BS cash (86,163 / 72,653); CF EBIT = IS EBIT; total assets = total equity and liabilities (1,538,965 / 1,385,682); EBIT + D&A = EBITDA 169,126 (2023: 139,307 derived, matches USD 139m); goodwill roll-forward 690,855+104,489-19,038 = 776,306; segment totals = net sales both by region and by business; 2023 external product sales components sum to 505,589 vs printed 505,587 (rounding 2); Fior & Gentz net assets 28,884 + goodwill 104,489 = 133,373 OK; cash consideration 67,984+5,052-2,963 = 70,073 vs printed 70,072 (rounding 1) and ties to CF acquisition line -70,072. NIBD derived from BS (413,626 / 395,080) matches printed USD 414m / 395m. All reference values confirmed (net sales 854,889/785,683, EBITDA 169,126, CFO 116,066/94,324, goodwill 776,306/690,855, total assets 1,538,965).",
+ "gaps": "Statement titles taken from WebFetch extraction; exact capitalisation not visually verified. Annual report text available to WebFetch was truncated before the Consolidated Financial Statements (p.103+), so AR segment note and AR notes on special items/NIBD/acquisition were not accessible; AR used only for five-year overview and Performance section growth tables (which match the Q4 report). No segment profit measures (EBITDA/EBIT/assets by segment) are disclosed in the Q4 report - only net sales by segment. No printed reconciliation table for special items: special items 2024 (4,138, all Q1) derived from Note 2 EBITDA vs EBITDA before special items; text only identifies USD 1m Fior & Gentz acquisition cost, remaining ~USD 3m composition not described. No printed NIBD reconciliation table; NIBD only printed in USD million. Note 2 quarterly statements not provided for 2023. Fior & Gentz sales/profit contribution not disclosed (acquisition effect on growth: 3% group, 7% EMEA, 6% P&NO). Growth table only for 2024 (2023 split only in five-year overview, USD million/percent). Q4-only columns of IS/CF available in the report but omitted from statements per instructions (Q4 net sales shown in segments table)."
+}

@@ -1,0 +1,1315 @@
+{
+ "company": "Arjo AB",
+ "report": "Year-end report 2024",
+ "unit": "SEK M",
+ "periods": [
+  "2024",
+  "2023"
+ ],
+ "statements": [
+  {
+   "id": "is",
+   "title": "Consolidated income statement",
+   "rows": [
+    {
+     "label": "Net sales",
+     "v": [
+      11292,
+      10980
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cost of goods sold",
+     "v": [
+      -6386,
+      -6244
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Gross profit",
+     "v": [
+      4907,
+      4735
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Selling expenses",
+     "v": [
+      -2236,
+      -2163
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Administrative expenses",
+     "v": [
+      -1511,
+      -1462
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Research and development costs",
+     "v": [
+      -150,
+      -149
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Exceptional items",
+     "v": [
+      -126,
+      -73
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other operating income and expenses",
+     "v": [
+      18,
+      7
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Income from participations in associated companies",
+     "v": [
+      -9,
+      -11
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Operating profit (EBIT)",
+     "v": [
+      893,
+      884
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Net financial items",
+     "v": [
+      -209,
+      -243
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Profit after financial items",
+     "v": [
+      684,
+      640
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Taxes",
+     "v": [
+      -187,
+      -160
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Net Profit for the period",
+     "v": [
+      498,
+      480
+     ],
+     "s": "tot"
+    },
+    {
+     "label": "Attributable to:",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Parent Company shareholders",
+     "v": [
+      498,
+      480
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Number of shares, thousands",
+     "v": [
+      272370,
+      272370
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Earnings per share, SEK",
+     "v": [
+      1.83,
+      1.76
+     ],
+     "s": "n"
+    }
+   ]
+  },
+  {
+   "id": "ci",
+   "title": "Consolidated statement of comprehensive income",
+   "rows": [
+    {
+     "label": "Net profit for the period",
+     "v": [
+      498,
+      480
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other comprehensive income",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Items that cannot be restated in profit",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Actuarial gains/losses pertaining to defined-benefit pension plans",
+     "v": [
+      20,
+      -32
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Tax attributable to items that cannot be restated in profit",
+     "v": [
+      -8,
+      -10
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Items that can later be restated in profit",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Translation differences",
+     "v": [
+      585,
+      -63
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Hedges of net investments",
+     "v": [
+      -62,
+      4
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash-flow hedges",
+     "v": [
+      -2,
+      null
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Tax attributable to items that can be restated in profit",
+     "v": [
+      -28,
+      2
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other comprehensive income for the period, net after tax",
+     "v": [
+      504,
+      -99
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Total comprehensive income for the period",
+     "v": [
+      1002,
+      382
+     ],
+     "s": "tot"
+    },
+    {
+     "label": "Comprehensive income attributable to:",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Parent Company shareholders",
+     "v": [
+      1002,
+      382
+     ],
+     "s": "n"
+    }
+   ]
+  },
+  {
+   "id": "bs",
+   "title": "Consolidated balance sheet",
+   "rows": [
+    {
+     "label": "Assets",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Intangible assets",
+     "v": [
+      7651,
+      7343
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Tangible assets",
+     "v": [
+      1695,
+      1669
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Tangible lease assets",
+     "v": [
+      1215,
+      1111
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Financial assets",
+     "v": [
+      862,
+      763
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Participations in associated companies",
+     "v": [
+      null,
+      139
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Inventories",
+     "v": [
+      1388,
+      1301
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Accounts receivables",
+     "v": [
+      1798,
+      1632
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Current financial receivables",
+     "v": [
+      29,
+      14
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other current receivables",
+     "v": [
+      603,
+      548
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash and cash equivalents",
+     "v": [
+      892,
+      923
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Assets held for sale",
+     "v": [
+      143,
+      null
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Total assets",
+     "v": [
+      16276,
+      15444
+     ],
+     "s": "tot"
+    },
+    {
+     "label": "Shareholders' equity and liabilities",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Shareholders' equity",
+     "v": [
+      8338,
+      7582
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Non-current financial liabilities",
+     "v": [
+      2163,
+      2391
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Non-current lease liabilities",
+     "v": [
+      851,
+      796
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Provisions for pensions, interest-bearing",
+     "v": [
+      36,
+      31
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other provisions",
+     "v": [
+      348,
+      305
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Current financial liabilities",
+     "v": [
+      1976,
+      1934
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Current lease liabilities",
+     "v": [
+      428,
+      365
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Accounts payables",
+     "v": [
+      607,
+      612
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other non-interest-bearing liabilities",
+     "v": [
+      1530,
+      1427
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Total shareholders' equity and liabilities",
+     "v": [
+      16276,
+      15444
+     ],
+     "s": "tot"
+    }
+   ]
+  },
+  {
+   "id": "cf",
+   "title": "Consolidated cash-flow statement",
+   "rows": [
+    {
+     "label": "Operating activities",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Operating profit (EBIT)",
+     "v": [
+      893,
+      884
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Add-back of amortization, depreciation and write-down",
+     "v": [
+      1084,
+      1062
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Other non-cash items",
+     "v": [
+      -41,
+      -22
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Expensed exceptional items",
+     "v": [
+      105,
+      70
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Paid exceptional items",
+     "v": [
+      -43,
+      -60
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Financial items",
+     "v": [
+      -217,
+      -230
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Taxes paid",
+     "v": [
+      -192,
+      -166
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash flow before changes to working capital",
+     "v": [
+      1589,
+      1536
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Changes in working capital",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Inventories",
+     "v": [
+      0,
+      192
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Current receivables",
+     "v": [
+      -98,
+      130
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Current liabilities",
+     "v": [
+      25,
+      203
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash flow from operations",
+     "v": [
+      1516,
+      2061
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Investing activities",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Acquired operations",
+     "v": [
+      -55,
+      null
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Capital contributions to associated companies",
+     "v": [
+      null,
+      -24
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Acquired financial assets",
+     "v": [
+      null,
+      -10
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Net investments",
+     "v": [
+      -581,
+      -604
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash flow from investing activities",
+     "v": [
+      -635,
+      -637
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Financing activities",
+     "v": [
+      null,
+      null
+     ],
+     "s": "h"
+    },
+    {
+     "label": "Raising of loans",
+     "v": [
+      26835,
+      23730
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Repayment of financial liabilities",
+     "v": [
+      -27170,
+      -24618
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Repayment of lease liabilities",
+     "v": [
+      -431,
+      -412
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Change in pension assets/liabilities",
+     "v": [
+      -6,
+      -3
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Change in interest-bearing receivables",
+     "v": [
+      13,
+      22
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Dividend",
+     "v": [
+      -245,
+      -232
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Realized derivatives attributable to financing activities",
+     "v": [
+      97,
+      86
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash flow from financing activities",
+     "v": [
+      -907,
+      -1427
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Cash flow for the period",
+     "v": [
+      -26,
+      -4
+     ],
+     "s": "sub"
+    },
+    {
+     "label": "Cash and cash equivalents at the beginning of the period",
+     "v": [
+      923,
+      949
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Translation differences",
+     "v": [
+      -5,
+      -22
+     ],
+     "s": "n"
+    },
+    {
+     "label": "Cash and cash equivalents at the end of the period",
+     "v": [
+      892,
+      923
+     ],
+     "s": "tot"
+    }
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "id": "keyfig",
+   "title": "Key figures",
+   "cols": [
+    "",
+    "2024",
+    "2023"
+   ],
+   "rows": [
+    [
+     "Net sales",
+     "11,292",
+     "10,980"
+    ],
+    [
+     "Net sales growth, %",
+     "2.8",
+     "10.0"
+    ],
+    [
+     "Organic growth in sales, %",
+     "3.1",
+     "4.7"
+    ],
+    [
+     "Selling expenses as a % of net sales",
+     "19.8",
+     "19.7"
+    ],
+    [
+     "Administrative expenses as a % of net sales",
+     "13.4",
+     "13.3"
+    ],
+    [
+     "Research and development costs gross as a % of net sales",
+     "2.8",
+     "2.7"
+    ],
+    [
+     "Operating profit (EBIT)",
+     "893",
+     "884"
+    ],
+    [
+     "Adjusted operating profit (EBIT)",
+     "1,019",
+     "957"
+    ],
+    [
+     "EBITA",
+     "1,137",
+     "1,170"
+    ],
+    [
+     "Adjusted EBITA",
+     "1,263",
+     "1,244"
+    ],
+    [
+     "EBITDA",
+     "1,977",
+     "1,946"
+    ],
+    [
+     "EBITDA growth, %",
+     "1.6",
+     "15.9"
+    ],
+    [
+     "Adjusted EBITDA",
+     "2,086",
+     "2,017"
+    ],
+    [
+     "Earnings per share, SEK",
+     "1.83",
+     "1.76"
+    ],
+    [
+     "Gross margin, %",
+     "43.5",
+     "43.1"
+    ],
+    [
+     "Operating margin, %",
+     "7.9",
+     "8.0"
+    ],
+    [
+     "Adjusted Operating margin, %",
+     "9.0",
+     "8.7"
+    ],
+    [
+     "EBITA margin, %",
+     "10.1",
+     "10.7"
+    ],
+    [
+     "Adjusted EBITA margin, %",
+     "11.2",
+     "11.3"
+    ],
+    [
+     "EBITDA margin, %",
+     "17.5",
+     "17.7"
+    ],
+    [
+     "Adjusted EBITDA margin, %",
+     "18.5",
+     "18.4"
+    ],
+    [
+     "Cash Conversion, %",
+     "76.7",
+     "105.9"
+    ],
+    [
+     "Operating Capital (31 Dec)",
+     "12,539",
+     "12,500"
+    ],
+    [
+     "Return on operating capital, %",
+     "8.1",
+     "7.7"
+    ],
+    [
+     "Interest-bearing net debt (31 Dec)",
+     "4,191",
+     "4,320"
+    ],
+    [
+     "Interest-coverage ratio, multiple",
+     "4.2",
+     "3.7"
+    ],
+    [
+     "Net debt/equity ratio, multiple",
+     "0.5",
+     "0.6"
+    ],
+    [
+     "Net debt/adjusted EBITDA, multiple",
+     "2.0",
+     "2.3"
+    ],
+    [
+     "Equity/asset ratio, %",
+     "51.2",
+     "49.1"
+    ],
+    [
+     "Equity per share, SEK",
+     "30.6",
+     "27.8"
+    ],
+    [
+     "Number of shares",
+     "272,369,573",
+     "272,369,573"
+    ],
+    [
+     "Number of employees, average",
+     "6,932",
+     "6,679"
+    ],
+    [
+     "Net profit for the period (Arjo in brief, AR 2024)",
+     "498",
+     "480"
+    ],
+    [
+     "Cash flow from operations",
+     "1,516",
+     "2,061"
+    ],
+    [
+     "Dividend per share, SEK (Arjo in brief, AR 2024; 2024 = proposed)",
+     "0.95",
+     "0.90"
+    ],
+    [
+     "Employees (Arjo in brief, AR 2024)",
+     "~7,000",
+     ""
+    ],
+    [
+     "Countries where products are sold (Arjo in brief)",
+     ">100",
+     ""
+    ],
+    [
+     "Founded (Arjo in brief)",
+     "1957",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "netdebt",
+   "title": "Net debt (Consolidated interest-bearing net debt, 31 Dec)",
+   "cols": [
+    "",
+    "2024",
+    "2023"
+   ],
+   "rows": [
+    [
+     "Non-current financial liabilities",
+     "2,163",
+     "2,391"
+    ],
+    [
+     "Non-current lease liabilities",
+     "851",
+     "796"
+    ],
+    [
+     "Current financial liabilities",
+     "1,976",
+     "1,934"
+    ],
+    [
+     "Current lease liabilities",
+     "428",
+     "365"
+    ],
+    [
+     "Provisions for pensions",
+     "36",
+     "31"
+    ],
+    [
+     "Interest-bearing liabilities",
+     "5,453",
+     "5,517"
+    ],
+    [
+     "Less financial receivables",
+     "-141",
+     "-91"
+    ],
+    [
+     "Less pension assets",
+     "-229",
+     "-183"
+    ],
+    [
+     "Less cash and cash equivalents",
+     "-892",
+     "-923"
+    ],
+    [
+     "Interest-bearing net debt",
+     "4,191",
+     "4,320"
+    ]
+   ]
+  },
+  {
+   "id": "exceptional",
+   "title": "Exceptional items",
+   "cols": [
+    "",
+    "2024",
+    "2023"
+   ],
+   "rows": [
+    [
+     "Acquisition expenses",
+     "-4",
+     "-2"
+    ],
+    [
+     "Realization loss BBI-assets",
+     "-54",
+     ""
+    ],
+    [
+     "Restructuring costs",
+     "-68",
+     "-72"
+    ],
+    [
+     "Total",
+     "-126",
+     "-73"
+    ]
+   ]
+  },
+  {
+   "id": "segments",
+   "title": "Segments",
+   "cols": [
+    "",
+    "Global Sales",
+    "North America",
+    "Other",
+    "Group Functions",
+    "Eliminations",
+    "Arjo Group"
+   ],
+   "rows": [
+    [
+     "Full-year 2024",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Product sales",
+     "3,269",
+     "2,621",
+     "385",
+     "",
+     "-10",
+     "6,266"
+    ],
+    [
+     "Service incl. spare parts",
+     "1,478",
+     "711",
+     "23",
+     "",
+     "0",
+     "2,212"
+    ],
+    [
+     "Rental",
+     "1,733",
+     "1,082",
+     "",
+     "",
+     "-1",
+     "2,814"
+    ],
+    [
+     "Total net sales",
+     "6,481",
+     "4,415",
+     "408",
+     "",
+     "-12",
+     "11,292"
+    ],
+    [
+     "Operating profit/loss",
+     "1,062",
+     "1,011",
+     "55",
+     "-1,235",
+     "",
+     "893"
+    ],
+    [
+     "Organic change in net sales, %",
+     "1.9",
+     "5.7",
+     "-5.2",
+     "",
+     "",
+     "3.1"
+    ],
+    [
+     "Full-year 2023",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Product sales",
+     "3,325",
+     "2,555",
+     "399",
+     "",
+     "-15",
+     "6,264"
+    ],
+    [
+     "Service incl. spare parts",
+     "1,361",
+     "663",
+     "25",
+     "",
+     "0",
+     "2,048"
+    ],
+    [
+     "Rental",
+     "1,667",
+     "1,001",
+     "",
+     "",
+     "",
+     "2,668"
+    ],
+    [
+     "Total net sales",
+     "6,352",
+     "4,219",
+     "424",
+     "",
+     "-15",
+     "10,980"
+    ],
+    [
+     "Operating profit/loss",
+     "1,143",
+     "896",
+     "50",
+     "-1,206",
+     "",
+     "884"
+    ]
+   ]
+  },
+  {
+   "id": "category",
+   "title": "Net sales by category",
+   "cols": [
+    "",
+    "2024",
+    "2023"
+   ],
+   "rows": [
+    [
+     "Product sales",
+     "6,266",
+     "6,264"
+    ],
+    [
+     "Service incl. spare parts",
+     "2,212",
+     "2,048"
+    ],
+    [
+     "Rental",
+     "2,814",
+     "2,668"
+    ],
+    [
+     "Total net sales",
+     "11,292",
+     "10,980"
+    ]
+   ]
+  },
+  {
+   "id": "bytype",
+   "title": "Sales by type of service (annual report)",
+   "cols": [
+    "",
+    "2024",
+    "2023"
+   ],
+   "rows": [
+    [
+     "Capital goods",
+     "39%",
+     ""
+    ],
+    [
+     "Rental",
+     "25%",
+     ""
+    ],
+    [
+     "Service",
+     "20%",
+     ""
+    ],
+    [
+     "Disposables",
+     "16%",
+     ""
+    ],
+    [
+     "By customer category: Acute care",
+     "68%",
+     ""
+    ],
+    [
+     "By customer category: Long-term care",
+     "32%",
+     ""
+    ],
+    [
+     "By segment: Global Sales",
+     "57%",
+     ""
+    ],
+    [
+     "By segment: North America",
+     "39%",
+     ""
+    ],
+    [
+     "By segment: Other",
+     "4%",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "organic",
+   "title": "Sales growth bridge (organic, currency)",
+   "cols": [
+    "",
+    "2024",
+    "2023"
+   ],
+   "rows": [
+    [
+     "Net sales (SEK M)",
+     "11,292",
+     "10,980"
+    ],
+    [
+     "Net sales growth, %",
+     "2.8",
+     "10.0"
+    ],
+    [
+     "Organic growth in sales, %",
+     "3.1",
+     "4.7"
+    ],
+    [
+     "Translation effect on sales vs prior year (SEK M)",
+     "-32",
+     ""
+    ],
+    [
+     "Organic change, Global Sales, %",
+     "1.9",
+     ""
+    ],
+    [
+     "Organic change, North America, %",
+     "5.7",
+     ""
+    ],
+    [
+     "Organic change, Other, %",
+     "-5.2",
+     ""
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.arjo.com/siteassets/01-about-us/investors/2025/q4-2024/arjo_q4_2024_eng_final.pdf",
+  "https://mb.cision.com/Main/12208/4098129/3235773.pdf",
+  "https://news.cision.com/arjo/r/arjo-s-year-end-report-january-december-2024,c4098129",
+  "https://www.arjo.com/siteassets/01-about-us/investors/2025/annual-report-2024/final-version/arjo_ahr24_eng_final.pdf"
+ ],
+ "checks": "Reference values all match (net sales 11,292/10,980; CFO 1,516/2,061; AR 1,798/1,632; inventories 1,388/1,301). IS: EBIT 893 and 884 reconcile exactly; PAFI 684/640 reconcile. Rounding diffs of 1: gross profit 2024 (11,292-6,386=4,906 vs 4,907), net profit 2024 (684-187=497 vs 498). BS: total assets 2024 sums exactly to 16,276; 2023 lines sum to 15,443 vs 15,444; equity+liabilities lines sum to 16,277 (2024) and 15,443 (2023) vs printed 16,276/15,444 (rounding, 1). CF: pre-WC 2024 = 1,589 exact; 2023 components sum to 1,538 vs printed 1,536 (diff 2, re-read twice, same values). CFO, financing, ending cash reconcile both years; investing sums -636/-638 vs printed -635/-637; 2023 cash flow for period -3 vs printed -4 (rounding). Comprehensive income reconciles both years. Net debt 2024 liabilities sum 5,454 vs 5,453; net debt 4,191/4,320 reconcile. Exceptional items 2024 sum -126 exact; 2023 -74 vs -73. Segments: totals reconcile to group; small 1-unit rounding diffs in some segment row/column sums (e.g. GS 2024 3,269+1,478+1,733=6,480 vs 6,481; 2023 OP sum 883 vs 884). Category totals reconcile except 2024 product sales cross-sum 6,265 vs 6,266. Bridge: 10,980 x 1.031 = 11,320; -32 translation = 11,288 vs 11,292 (residual +4 unexplained/acquisitions/rounding).",
+ "gaps": "Data extracted via WebFetch text (summarizing model), not page images; labels may differ slightly in case/punctuation from print. No printed full-year sales bridge table: acquisition/divestment contribution and currency effect in % not found (only translation effect -32 SEK M and organic/reported %); 2023 currency effect and 2023 segment organic changes not captured. Annual report 'by type of service' only as 2024 % shares (Capital goods/Rental/Service/Disposables); no SEK M and no 2023 shares found. Annual report revenue note (geographic/type SEK M) not reachable within WebFetch content. Balance sheet in report is condensed (no separate equity/liability subtotals printed). Key figures balance-sheet items (operating capital, net debt, ratios, equity per share) are at 31 Dec; Return on operating capital/interest coverage column placement taken as returned."
+}

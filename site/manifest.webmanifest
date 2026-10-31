@@ -1,0 +1,29 @@
+{
+ "name": "The GM's Ledger",
+ "short_name": "GM's Ledger",
+ "description": "Accounting and finance for general managers: the BraceWorks Medical course.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F1F4F2",
+ "theme_color": "#0C6A61",
+ "lang": "en",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

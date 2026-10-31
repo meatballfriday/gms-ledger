@@ -1,0 +1,2435 @@
+{
+ "company": "Invacare Corporation",
+ "unit": "US$ thousands",
+ "reports": [
+  {
+   "id": "k2021",
+   "report": "Form 10-K for 2021 (filed 8 March 2022)",
+   "periods": [
+    "2021",
+    "2020",
+    "2019"
+   ],
+   "statements": [
+    {
+     "id": "is",
+     "title": "Consolidated Statement Of Comprehensive Income (Loss)",
+     "periods": [
+      "2021",
+      "2020",
+      "2019"
+     ],
+     "rows": [
+      {
+       "label": "Revenues",
+       "v": [
+        872457,
+        850689,
+        927964
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Cost of products sold",
+       "v": [
+        633351,
+        605437,
+        665897
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Gross Profit",
+       "v": [
+        239106,
+        245252,
+        262067
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Selling, general and administrative expenses",
+       "v": [
+        232242,
+        236357,
+        260061
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Gain on sale of business",
+       "v": [
+        0,
+        -9790,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Charges related to restructuring activities",
+       "v": [
+        2534,
+        7358,
+        11829
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Impairment of goodwill",
+       "v": [
+        28564,
+        null,
+        null
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Impairment of an intangible asset",
+       "v": [
+        null,
+        null,
+        587
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Operating Income (Loss)",
+       "v": [
+        -24234,
+        11327,
+        -10410
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Net gain on convertible debt derivatives",
+       "v": [
+        0,
+        0,
+        -1197
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Gain (Loss) on Extinguishment of Debt",
+       "v": [
+        -9422,
+        7360,
+        6165
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Interest expense",
+       "v": [
+        24307,
+        28499,
+        29076
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Interest income",
+       "v": [
+        -1,
+        -93,
+        -429
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Loss Before Income Taxes",
+       "v": [
+        -39118,
+        -24439,
+        -44025
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Income tax provision",
+       "v": [
+        6445,
+        3841,
+        9302
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Loss",
+       "v": [
+        -45563,
+        -28280,
+        -53327
+       ],
+       "s": "tot"
+      },
+      {
+       "label": "Net Earnings (loss) per Share - Basic (US$)",
+       "v": [
+        -1.31,
+        -0.83,
+        -1.59
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Weighted Average Shares Outstanding - Basic (thousands)",
+       "v": [
+        34875,
+        34266,
+        33594
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Earnings (loss) per Share - Assuming Dilution (US$)",
+       "v": [
+        -1.31,
+        -0.83,
+        -1.59
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Weighted Average Shares Outstanding - Assuming Dilution (thousands)",
+       "v": [
+        35274,
+        34375,
+        33642
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other comprehensive income (loss):",
+       "v": [
+        null,
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Foreign currency translation adjustments",
+       "v": [
+        -28724,
+        43405,
+        -8499
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Defined benefit plans:",
+       "v": [
+        null,
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Amortization of prior service costs and unrecognized losses",
+       "v": [
+        -427,
+        -375,
+        -596
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Deferred tax adjustment resulting from defined benefit plan activity",
+       "v": [
+        -39,
+        55,
+        48
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Valuation reserve associated with defined benefit plan activity",
+       "v": [
+        39,
+        -55,
+        -48
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current period gain (loss) on cash flow hedges",
+       "v": [
+        815,
+        -825,
+        -571
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Deferred tax benefit (expense) related to gain (loss) on cash flow hedges",
+       "v": [
+        -112,
+        103,
+        1
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other Comprehensive Income (Loss)",
+       "v": [
+        -28448,
+        42308,
+        -9665
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Comprehensive Income (Loss)",
+       "v": [
+        -74011,
+        14028,
+        -62992
+       ],
+       "s": "tot"
+      }
+     ]
+    },
+    {
+     "id": "bs",
+     "title": "Consolidated Balance Sheets",
+     "periods": [
+      "2021",
+      "2020"
+     ],
+     "rows": [
+      {
+       "label": "Current Assets",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Cash and cash equivalents",
+       "v": [
+        83745,
+        105298
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Trade receivables, net",
+       "v": [
+        117115,
+        108588
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Installment receivables, net",
+       "v": [
+        218,
+        379
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Inventories, net",
+       "v": [
+        144274,
+        115484
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other current assets",
+       "v": [
+        40036,
+        44717
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Current Assets",
+       "v": [
+        385388,
+        374466
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Other Assets",
+       "v": [
+        5362,
+        5925
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Intangibles",
+       "v": [
+        26356,
+        27763
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Property and Equipment, net",
+       "v": [
+        60921,
+        56243
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Finance Lease Assets, net",
+       "v": [
+        63029,
+        64031
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Operating Lease Assets, net",
+       "v": [
+        12600,
+        15092
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Goodwill",
+       "v": [
+        355875,
+        402461
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Assets",
+       "v": [
+        909531,
+        945981
+       ],
+       "s": "tot"
+      },
+      {
+       "label": "Current Liabilities",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Accounts payable",
+       "v": [
+        130036,
+        85424
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accrued expenses",
+       "v": [
+        102971,
+        126273
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current taxes payable",
+       "v": [
+        3914,
+        3359
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current portion of long-term debt",
+       "v": [
+        3107,
+        5612
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current portion of finance lease obligations",
+       "v": [
+        3009,
+        3405
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current portion of operating lease obligations",
+       "v": [
+        4217,
+        6313
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Current Liabilities",
+       "v": [
+        247254,
+        230386
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Long-Term Debt",
+       "v": [
+        305022,
+        239441
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Long-Term Obligations - Finance Leases",
+       "v": [
+        63736,
+        63137
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Long-Term Obligations - Operating Leases",
+       "v": [
+        8234,
+        8697
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other Long-Term Obligations",
+       "v": [
+        66796,
+        70474
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Shareholders' Equity",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Preferred Shares (Authorized 300 shares; none outstanding)",
+       "v": [
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Common Shares (Authorized 150,000 shares; 39,416 and 38,613 issued and outstanding at December 31, 2021 and December 31, 2020, respectively)—no par",
+       "v": [
+        9977,
+        9816
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Class B Common Shares (Authorized 12,000 shares; 4 and 4 issued and outstanding at December 31, 2021 and December 31, 2020, respectively)—no par",
+       "v": [
+        2,
+        2
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Additional paid-in-capital",
+       "v": [
+        276665,
+        326088
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Retained earnings",
+       "v": [
+        22645,
+        58538
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accumulated other comprehensive income",
+       "v": [
+        16988,
+        45436
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Treasury Shares (4,397 and 4,184 shares at December 31, 2021 and December 31, 2020, respectively)",
+       "v": [
+        -107788,
+        -106034
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Shareholders' Equity",
+       "v": [
+        218489,
+        333846
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Total Liabilities and Shareholders' Equity",
+       "v": [
+        909531,
+        945981
+       ],
+       "s": "tot"
+      }
+     ]
+    },
+    {
+     "id": "cf",
+     "title": "Consolidated Statement Of Cash Flows",
+     "periods": [
+      "2021",
+      "2020",
+      "2019"
+     ],
+     "rows": [
+      {
+       "label": "Operating Activities",
+       "v": [
+        null,
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Net loss",
+       "v": [
+        -45563,
+        -28280,
+        -53327
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Adjustments to reconcile net earnings to net cash used by operating activities:",
+       "v": [
+        null,
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Gain on sale of business",
+       "v": [
+        0,
+        -9790,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Depreciation and amortization",
+       "v": [
+        16821,
+        14317,
+        15563
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Amortization operating lease right of use assets",
+       "v": [
+        6273,
+        6951,
+        8927
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Provision for losses on trade and installment receivables",
+       "v": [
+        -16,
+        427,
+        955
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Benefit for deferred income taxes",
+       "v": [
+        -224,
+        -2192,
+        -830
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Provision for other deferred liabilities",
+       "v": [
+        160,
+        971,
+        1144
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Provision for equity compensation",
+       "v": [
+        4323,
+        8645,
+        11110
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Loss (gain) on disposals of property and equipment",
+       "v": [
+        -278,
+        -1046,
+        182
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Loss (gain) on debt extinguishment including debt finance charges and associated fees",
+       "v": [
+        -9422,
+        7360,
+        6165
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Impairment of an intangible asset",
+       "v": [
+        null,
+        null,
+        587
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Impairment of goodwill",
+       "v": [
+        28564,
+        null,
+        null
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Amortization of convertible debt discount and accretion of convertible debt",
+       "v": [
+        3534,
+        11487,
+        12325
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Amortization of debt fees",
+       "v": [
+        2236,
+        1690,
+        2384
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net gain on convertible debt derivatives",
+       "v": [
+        0,
+        0,
+        -1197
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Changes in operating assets and liabilities:",
+       "v": [
+        null,
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Trade receivables",
+       "v": [
+        -11028,
+        7692,
+        1474
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Installment sales contracts, net",
+       "v": [
+        388,
+        -481,
+        434
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Inventories, net",
+       "v": [
+        -33129,
+        8955,
+        6466
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other current assets",
+       "v": [
+        2755,
+        -5313,
+        -7314
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accounts payable",
+       "v": [
+        47101,
+        -2359,
+        -3603
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accrued expenses",
+       "v": [
+        -26868,
+        1713,
+        2276
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other long-term liabilities",
+       "v": [
+        64,
+        1170,
+        -978
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Cash Provided by (Used in) Operating Activities",
+       "v": [
+        -14309,
+        21917,
+        2743
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Investing Activities",
+       "v": [
+        null,
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Purchases of property and equipment",
+       "v": [
+        -17698,
+        -22304,
+        -10874
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Proceeds from sale of property and equipment",
+       "v": [
+        33,
+        396,
+        73
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Proceeds from sale of business",
+       "v": [
+        0,
+        14563,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Change in other long-term assets",
+       "v": [
+        -252,
+        -27,
+        -781
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other",
+       "v": [
+        115,
+        -2175,
+        -32
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Cash Used by Investing Activities",
+       "v": [
+        -17802,
+        -9547,
+        -11614
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Financing Activities",
+       "v": [
+        null,
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Proceeds from revolving lines of credit and long-term borrowings",
+       "v": [
+        155033,
+        86081,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Repurchases of convertible debt, payments on revolving lines of credit and finance leases",
+       "v": [
+        -116250,
+        -70603,
+        -17196
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Payment of financing costs",
+       "v": [
+        -5369,
+        -1505,
+        -1278
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Payment of dividends",
+       "v": [
+        0,
+        -414,
+        -1645
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Purchases of capped calls",
+       "v": [
+        -18787,
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Payments to debt holders",
+       "v": [
+        0,
+        -5593,
+        -6928
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Purchases of treasury shares",
+       "v": [
+        -1754,
+        -1707,
+        -894
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Cash Provided (Used) by Financing Activities",
+       "v": [
+        12873,
+        6259,
+        -27941
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Effect of exchange rate changes on cash",
+       "v": [
+        -2315,
+        6606,
+        -32
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Increase (decrease) in cash and cash equivalents",
+       "v": [
+        -21553,
+        25235,
+        -36844
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Cash and cash equivalents at beginning of year",
+       "v": [
+        105298,
+        80063,
+        116907
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Cash and cash equivalents at end of year",
+       "v": [
+        83745,
+        105298,
+        80063
+       ],
+       "s": "tot"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "id": "debt",
+     "title": "Long-term debt",
+     "cols": [
+      "",
+      "2021",
+      "2020"
+     ],
+     "rows": [
+      [
+       "Convertible senior notes at 5.00%, due in February 2021",
+       "",
+       "1,242"
+      ],
+      [
+       "Convertible senior notes at 4.50%, due in June 2022",
+       "2,642",
+       "73,869"
+      ],
+      [
+       "Convertible senior notes Series I at 5.00%, due in November 2024",
+       "72,140",
+       "62,984"
+      ],
+      [
+       "Convertible senior notes Series II at 5.00%, due in November 2024",
+       "78,251",
+       "64,919"
+      ],
+      [
+       "Convertible senior notes at 4.25%, due in March 2026",
+       "119,036",
+       ""
+      ],
+      [
+       "Other obligations",
+       "36,060",
+       "42,039"
+      ],
+      [
+       "Total",
+       "308,129",
+       "245,053"
+      ],
+      [
+       "Less current maturities of long-term debt",
+       "(3,107)",
+       "(5,612)"
+      ],
+      [
+       "Long-Term Debt",
+       "305,022",
+       "239,441"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "k2022",
+   "report": "Form 10-K for 2022 (filed 14 April 2023)",
+   "periods": [
+    "2022",
+    "2021"
+   ],
+   "statements": [
+    {
+     "id": "is",
+     "title": "Consolidated Statement Of Comprehensive Income (Loss)",
+     "periods": [
+      "2022",
+      "2021"
+     ],
+     "rows": [
+      {
+       "label": "Revenues",
+       "v": [
+        741733,
+        872457
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Cost of products sold",
+       "v": [
+        566340,
+        633351
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Gross Profit",
+       "v": [
+        175393,
+        239106
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Selling, general and administrative expenses",
+       "v": [
+        226780,
+        232242
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Gain on sale of business",
+       "v": [
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Charges related to restructuring activities",
+       "v": [
+        25820,
+        2534
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Impairment of goodwill",
+       "v": [
+        0,
+        28564
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Impairment of intangible assets",
+       "v": [
+        3259,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Operating Income (Loss)",
+       "v": [
+        -80466,
+        -24234
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Net gain on convertible debt derivatives",
+       "v": [
+        -1510,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Gain (Loss) on Extinguishment of Debt",
+       "v": [
+        -9419,
+        -9422
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Interest expense",
+       "v": [
+        28520,
+        24307
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Interest income",
+       "v": [
+        -56,
+        -1
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Loss Before Income Taxes",
+       "v": [
+        -98001,
+        -39118
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Income tax provision",
+       "v": [
+        3070,
+        6445
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Loss",
+       "v": [
+        -101071,
+        -45563
+       ],
+       "s": "tot"
+      },
+      {
+       "label": "Net Earnings (Loss) per Share—Basic:",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Net Earnings (loss) per Share - Basic (US$)",
+       "v": [
+        -2.77,
+        -1.31
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Weighted Average Shares Outstanding - Basic (thousands)",
+       "v": [
+        36517,
+        34875
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Earnings (Loss) per Share—Assuming Dilution:",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Net Earnings (loss) per Share - Assuming Dilution (US$)",
+       "v": [
+        -2.77,
+        -1.31
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Weighted Average Shares Outstanding - Assuming Dilution (thousands)",
+       "v": [
+        36629,
+        35274
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other comprehensive income (loss):",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Foreign currency translation adjustments",
+       "v": [
+        -48197,
+        -28724
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Defined benefit plans:",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Amortization of prior service costs and unrecognized losses",
+       "v": [
+        6487,
+        -427
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Deferred tax adjustment resulting from defined benefit plan activity",
+       "v": [
+        -197,
+        -39
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Valuation reserve associated with defined benefit plan activity",
+       "v": [
+        197,
+        39
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current period gain (loss) on cash flow hedges",
+       "v": [
+        -1,
+        815
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Deferred tax benefit (expense) related to gain (loss) on cash flow hedges",
+       "v": [
+        0,
+        -112
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other Comprehensive Income (Loss)",
+       "v": [
+        -41711,
+        -28448
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Comprehensive Income (Loss)",
+       "v": [
+        -142782,
+        -74011
+       ],
+       "s": "tot"
+      }
+     ]
+    },
+    {
+     "id": "bs",
+     "title": "Consolidated Balance Sheets",
+     "periods": [
+      "2022",
+      "2021"
+     ],
+     "rows": [
+      {
+       "label": "Current Assets",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Cash and cash equivalents",
+       "v": [
+        58792,
+        83745
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Trade receivables, net",
+       "v": [
+        87952,
+        117115
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Installment receivables, net",
+       "v": [
+        311,
+        218
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Inventories, net",
+       "v": [
+        112561,
+        144274
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other current assets",
+       "v": [
+        39702,
+        40036
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Current Assets",
+       "v": [
+        299318,
+        385388
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Other Assets",
+       "v": [
+        5159,
+        5362
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Intangibles",
+       "v": [
+        21669,
+        26356
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Property and Equipment, net",
+       "v": [
+        51533,
+        60921
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Finance Lease Assets, net",
+       "v": [
+        56272,
+        63029
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Operating Lease Assets, net",
+       "v": [
+        10737,
+        12600
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Goodwill",
+       "v": [
+        326281,
+        355875
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Assets",
+       "v": [
+        770969,
+        909531
+       ],
+       "s": "tot"
+      },
+      {
+       "label": "Current Liabilities",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Accounts payable",
+       "v": [
+        104590,
+        130036
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accrued expenses",
+       "v": [
+        106091,
+        102971
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current taxes payable",
+       "v": [
+        2774,
+        3914
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current portion of long-term debt",
+       "v": [
+        154,
+        3107
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current portion of finance lease obligations",
+       "v": [
+        3106,
+        3009
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current portion of operating lease obligations",
+       "v": [
+        3420,
+        4217
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Current Liabilities",
+       "v": [
+        220135,
+        247254
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Long-Term Debt",
+       "v": [
+        354087,
+        305022
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Long-Term Obligations - Finance Leases",
+       "v": [
+        57994,
+        63736
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Long-Term Obligations - Operating Leases",
+       "v": [
+        7259,
+        8234
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other Long-Term Obligations",
+       "v": [
+        50402,
+        66796
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Shareholders' Equity",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Preferred Shares (Authorized 300 shares; none outstanding)",
+       "v": [
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Common Shares (Authorized 150,000 shares; 42,540 and 39,416 issued and outstanding at December 31, 2022 and December 31, 2021, respectively)—no par",
+       "v": [
+        10812,
+        9977
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Class B Common Shares (Authorized 12,000 shares; 4 and 4 issued and outstanding at December 31, 2022 and December 31, 2021, respectively)—no par",
+       "v": [
+        2,
+        2
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Additional paid-in-capital",
+       "v": [
+        281366,
+        276665
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Retained earnings (accumulated deficit)",
+       "v": [
+        -78426,
+        22645
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accumulated other comprehensive income (loss)",
+       "v": [
+        -24723,
+        16988
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Treasury Shares (4,536 and 4,397 shares at December 31, 2022 and December 31, 2021, respectively)",
+       "v": [
+        -107939,
+        -107788
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Shareholders' Equity",
+       "v": [
+        81092,
+        218489
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Total Liabilities and Shareholders' Equity",
+       "v": [
+        770969,
+        909531
+       ],
+       "s": "tot"
+      }
+     ]
+    },
+    {
+     "id": "cf",
+     "title": "Consolidated Statement Of Cash Flows",
+     "periods": [
+      "2022",
+      "2021"
+     ],
+     "rows": [
+      {
+       "label": "Operating Activities",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Net loss",
+       "v": [
+        -101071,
+        -45563
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Adjustments to reconcile net earnings to net cash used by operating activities:",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Gain on sale of business",
+       "v": [
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Depreciation and amortization",
+       "v": [
+        15491,
+        16821
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Amortization operating lease right of use assets",
+       "v": [
+        4862,
+        6273
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Provision (benefit) for losses on trade and installment receivables",
+       "v": [
+        -862,
+        -16
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Benefit for deferred income taxes",
+       "v": [
+        -241,
+        -224
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Provision for other deferred liabilities",
+       "v": [
+        -1431,
+        160
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Provision for equity compensation",
+       "v": [
+        2080,
+        4323
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Loss (gain) on disposals of property and equipment",
+       "v": [
+        126,
+        -278
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Loss (gain) on debt extinguishment including debt finance charges and associated fees",
+       "v": [
+        -9419,
+        -9422
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Impairment of intangible assets",
+       "v": [
+        3259,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Impairment of goodwill",
+       "v": [
+        0,
+        28564
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Inventory Write-down",
+       "v": [
+        null,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other Noncash Income",
+       "v": [
+        573,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Amortization of convertible debt discount, term loan original issuance discount and accretion of convertible debt",
+       "v": [
+        3891,
+        3534
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Amortization of debt fees",
+       "v": [
+        2684,
+        2236
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net gain on convertible debt derivatives",
+       "v": [
+        -1510,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Changes in operating assets and liabilities:",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Trade receivables",
+       "v": [
+        23178,
+        -11028
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Installment sales contracts, net",
+       "v": [
+        317,
+        388
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Inventories, net",
+       "v": [
+        17108,
+        -33129
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other current assets",
+       "v": [
+        3209,
+        2755
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accounts payable",
+       "v": [
+        -19156,
+        47101
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accrued expenses",
+       "v": [
+        -3970,
+        -26868
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other long-term liabilities",
+       "v": [
+        -4744,
+        64
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Cash Provided by (Used in) Operating Activities",
+       "v": [
+        -55251,
+        -14309
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Investing Activities",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Purchases of property and equipment",
+       "v": [
+        -3778,
+        -17698
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Proceeds from sale of property and equipment",
+       "v": [
+        5,
+        33
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Proceeds from sale of business",
+       "v": [
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Change in other long-term assets",
+       "v": [
+        -7,
+        -252
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other",
+       "v": [
+        -540,
+        115
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Cash Used by Investing Activities",
+       "v": [
+        -4320,
+        -17802
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Financing Activities",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Proceeds from revolving lines of credit and long-term borrowings",
+       "v": [
+        110512,
+        155033
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Repurchases of convertible debt, payments on revolving lines of credit and finance leases",
+       "v": [
+        -61000,
+        -116250
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Payment of financing costs",
+       "v": [
+        -11037,
+        -5369
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Payment of dividends",
+       "v": [
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Purchases of capped calls",
+       "v": [
+        0,
+        -18787
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Payments to debt holders",
+       "v": [
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Purchases of treasury shares",
+       "v": [
+        -151,
+        -1754
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Net Cash Provided by Financing Activities",
+       "v": [
+        38324,
+        12873
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Effect of exchange rate changes on cash",
+       "v": [
+        -3706,
+        -2315
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Increase (decrease) in cash and cash equivalents",
+       "v": [
+        -24953,
+        -21553
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Cash and cash equivalents at beginning of year",
+       "v": [
+        83745,
+        105298
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Cash and cash equivalents at end of year",
+       "v": [
+        58792,
+        83745
+       ],
+       "s": "tot"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "id": "debt",
+     "title": "Long-term debt",
+     "cols": [
+      "",
+      "2022",
+      "2021"
+     ],
+     "rows": [
+      [
+       "Convertible senior notes at 4.50%, due in June 2022",
+       "",
+       "2,642"
+      ],
+      [
+       "Convertible senior notes Series I at 5.00%, due in November 2024",
+       "72,408",
+       "72,140"
+      ],
+      [
+       "Convertible senior notes Series II at 5.00%, due in November 2024",
+       "76,719",
+       "78,251"
+      ],
+      [
+       "Convertible senior notes at 4.25%, due in March 2026",
+       "67,665",
+       "119,036"
+      ],
+      [
+       "Secured convertible senior notes at 5.68%, due in July 2026",
+       "37,240",
+       ""
+      ],
+      [
+       "Term loan, due in July 2026",
+       "82,808",
+       ""
+      ],
+      [
+       "Other obligations",
+       "17,401",
+       "36,060"
+      ],
+      [
+       "Total",
+       "354,241",
+       "308,129"
+      ],
+      [
+       "Less current maturities of long-term debt",
+       "(154)",
+       "(3,107)"
+      ],
+      [
+       "Long-Term Debt",
+       "354,087",
+       "305,022"
+      ]
+     ]
+    }
+   ],
+   "going_concern_summary": "Invacare's 2022 statements were still prepared on a going-concern basis, but management's required evaluation flagged conditions bearing on substantial doubt, because on 31 January 2023 the company and two U.S. subsidiaries filed voluntary chapter 11 petitions in the U.S. Bankruptcy Court for the Southern District of Texas. Whether the company can carry on as a going concern therefore depends on the court approving and the company implementing a plan of reorganization, emerging from chapter 11, and producing enough liquidity afterwards to meet its obligations and operating needs; the bankruptcy process itself adds significant risk and uncertainty."
+  },
+  {
+   "id": "bs2019",
+   "report": "Form 10-K for 2019",
+   "periods": [
+    "2019",
+    "2018"
+   ],
+   "statements": [
+    {
+     "id": "bs",
+     "title": "Consolidated Balance Sheets",
+     "periods": [
+      "2019",
+      "2018"
+     ],
+     "rows": [
+      {
+       "label": "Current Assets",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Cash and cash equivalents",
+       "v": [
+        80063,
+        116907
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Trade receivables, net",
+       "v": [
+        116669,
+        119743
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Installment receivables, net",
+       "v": [
+        736,
+        1574
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Inventories, net",
+       "v": [
+        120500,
+        128123
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other current assets",
+       "v": [
+        37909,
+        31063
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Current Assets",
+       "v": [
+        355877,
+        397410
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Other Assets",
+       "v": [
+        4216,
+        6360
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Intangibles",
+       "v": [
+        26447,
+        26506
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Property and Equipment, net",
+       "v": [
+        46607,
+        45984
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Financing Lease Assets, net",
+       "v": [
+        26900,
+        28322
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Operating Lease Assets, net",
+       "v": [
+        18676,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Goodwill",
+       "v": [
+        373403,
+        381273
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Assets",
+       "v": [
+        852126,
+        885855
+       ],
+       "s": "tot"
+      },
+      {
+       "label": "Current Liabilities",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Accounts payable",
+       "v": [
+        88003,
+        92469
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accrued expenses",
+       "v": [
+        120947,
+        99867
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current taxes payable",
+       "v": [
+        345,
+        3762
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Short-term debt and current maturities of long-term obligations",
+       "v": [
+        58,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current portion of financing lease obligations",
+       "v": [
+        2514,
+        2110
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Current portion of operating lease obligations",
+       "v": [
+        6790,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Current Liabilities",
+       "v": [
+        218657,
+        198208
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Long-Term Debt",
+       "v": [
+        219464,
+        225733
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Finance Lease Long-term Obligations",
+       "v": [
+        26480,
+        27802
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Operating Leases Long-term Obligations",
+       "v": [
+        12060,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Other Long-Term Obligations",
+       "v": [
+        66949,
+        74965
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Shareholders' Equity",
+       "v": [
+        null,
+        null
+       ],
+       "s": "h"
+      },
+      {
+       "label": "Preferred Shares",
+       "v": [
+        0,
+        0
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Common Shares",
+       "v": [
+        9588,
+        9419
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Class B Common Shares",
+       "v": [
+        2,
+        2
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Additional paid-in-capital",
+       "v": [
+        312650,
+        297919
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Retained earnings",
+       "v": [
+        87475,
+        142447
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Accumulated other comprehensive income",
+       "v": [
+        3128,
+        12793
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Treasury shares",
+       "v": [
+        -104327,
+        -103433
+       ],
+       "s": "n"
+      },
+      {
+       "label": "Total Shareholders' Equity",
+       "v": [
+        308516,
+        359147
+       ],
+       "s": "sub"
+      },
+      {
+       "label": "Total Liabilities and Shareholders' Equity",
+       "v": [
+        852126,
+        885855
+       ],
+       "s": "tot"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211222000012/R2.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211222000012/R3.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211222000012/R5.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211222000012/R46.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211223000036/R2.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211223000036/R3.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211223000036/R5.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211223000036/R46.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211223000036/R36.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211223000036/R73.htm",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211223000036/ivc-20221231_cal.xml",
+  "https://www.sec.gov/Archives/edgar/data/742112/000074211220000015/R4.htm"
+ ],
+ "checks": "Reference values all confirmed: net sales 872,457 (2021) / 850,689 (2020) / 927,964 (2019) / 741,733 (2022); operating cash flow (14,309) 2021 and (55,251) 2022; total equity 218,489 (2021), 81,092 (2022), 308,516 (2019). Income statements: gross profit = revenues - cost of products sold, and net loss = loss before income taxes - tax provision, exact for every year 2019-2022. Operating income and loss before taxes also tie exactly, provided the expense-style layout is read as printed (positive amounts are deducted; a negative amount, e.g. gain on sale of business (9,790) or debt extinguishment (9,422), is a credit). OCI components sum to OCI and net loss + OCI = comprehensive income in every year. Balance sheets (2018, 2019, 2020, 2021, 2022): current assets, total assets, current liabilities, equity components and total liabilities and equity all reconcile exactly. Cash flows (FY2021 10-K, 2021/2020/2019): operating, investing and financing subtotals reconcile exactly; CFO+CFI+CFF+FX = net change, and opening cash + change = closing cash, for all three years. FY2022 10-K: investing, financing, net change and the cash roll-forward reconcile exactly for 2022 and 2021, and the 2021 operating section reconciles exactly. The 2022 operating lines available sum to (65,626) against the printed (55,251), a gap of 10,375 (see gaps). Debt tables: instruments sum to the totals (308,129 / 245,053 in the 2021 10-K; 354,241 / 308,129 in the 2022 10-K). Total less current maturities = long-term debt, which matches the balance sheet (305,022 / 239,441 / 354,087).",
+ "gaps": "All values come from SEC XBRL R pages read through WebFetch, a summarising model, not from the printed 10-K pages. Row labels are the R-page labels: XBRL standard labels such as 'Revenues' (printed as Net sales) and 'Gain (Loss) on Extinguishment of Debt' may differ from the printed wording. EPS is in US$ and share counts in thousands. Reordering and omissions: on the R pages the common-share and Class B rows sit at the bottom of the balance sheet. They were moved into the equity section, where the printed 10-K shows them. XBRL-only rows were dropped: preferred shares authorised/outstanding counts, and the duplicate items rendered above the cash-flow table ('Purchases of capped calls' and others). Sign corrections (flagged): the R pages show the cash-flow line 'Loss (gain) on debt extinguishment...' with the opposite sign to what the statements need: +9,422 / -7,360 / -6,165 in the 2021 10-K and +9,419 / +9,422 / -7,360 in the 2022 10-K. Flipping only this line makes the operating subtotals reconcile exactly for 2019, 2020 and 2021 in both filings, and it agrees with the income statement. So the stored values are -9,422 (2021), +7,360 (2020), +6,165 (2019) and -9,419 (2022). In the 2022 10-K R5, the 2021 'Provision for other deferred liabilities' shows (160) while the 2021 10-K shows 160. 160 is stored because only it reconciles. Filled from the other filing (flagged): the 2022 10-K R3 omits the 2021 value of 'Long-Term Obligations - Finance Leases'. 63,736 is taken from the 2021 10-K, and the 2021 column then reconciles exactly. The 2022 10-K R5 leaves 2021 'Cash and cash equivalents at beginning of year' blank, so 105,298 comes from the 2021 10-K. Unresolved, 2022 operating cash flow: the XBRL calculation linkbase shows that the printed operating section also includes Inventory write-down, Other noncash income and Other noncash expense lines. R5 shows Inventory write-down blank for 2022 and Other Noncash Income 573 (placement and sign as printed are unknown), so the 2022 operating lines leave a 10,375 gap. The Inventories details page (R73) tags an Inventory write-down of 8,651 (context labelled Sep. 30, 2022). An exact tie would follow if the write-down is 8,651 and the 2022 provision for receivables is +862 rather than (862), but that is unconfirmed, so 2022 Inventory write-down is left null. Treat the 2022 values of provision for losses, provision for other deferred liabilities and Other Noncash Income as sign-uncertain. Other: the 2022 10-K statements also contain a 2020 column, which was not captured, per scope. The 2019 10-K balance sheet (R4) common-share labels carry no authorised/issued detail in what was retrieved. The going-concern text on R36 was truncated after the start of the risk list; the summary rests on the retrieved paragraphs. The printed 10-K document (ivc-20221231.htm) was too large for WebFetch to reach Item 8, and the data.sec.gov API and direct curl were unavailable."
+}
